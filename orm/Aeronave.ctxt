@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Aeronave
+comment1.params=
+comment1.target=java.lang.String\ printDataFabricacao()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=java.lang.String\ getModelo()
+comment5.params=modelo
+comment5.target=void\ setModelo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getRegistro()
+comment7.params=registro
+comment7.target=void\ setRegistro(java.lang.String)
+comment8.params=
+comment8.target=java.util.Date\ getDataFabricacao()
+comment9.params=dataFabricacao
+comment9.target=void\ setDataFabricacao(java.util.Date)
+numComments=10
